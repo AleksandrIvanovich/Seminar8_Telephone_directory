@@ -1,0 +1,7 @@
+[{'contact_id': 7, 'surname': 'Иванов', 'name': 'Иван', 'phone': '+73981192348', 'comment': ' Личный'}]; added; 2023-01-05 15:07:23 
+{'contact_id': 1, 'surname': 'Иванов', 'name': 'Иван', 'phone': '111', 'comment': 'Друг'}; changed; 2023-01-05 16:02:45 
+{'contact_id': 1, 'surname': 'Иванов', 'name': 'Иван', 'phone': '+79283398347', 'comment': 'Друг'}; changed; 2023-01-05 16:04:00 
+{'contact_id': 11, 'surname': '98', 'name': '7', 'phone': '77', 'comment': '7'}; changed; 2023-01-05 16:04:58 
+[{'contact_id': 12, 'surname': 'Иванов', 'name': 'Иван', 'phone': '79998887744', 'comment': 'Одноклассник'}, {'contact_id': 13, 'surname': 'Сидоров', 'name': 'Сергей', 'phone': '78887775522', 'comment': 'Одногрупник'}, {'contact_id': 14, 'surname': 'Петров', 'name': 'Петр', 'phone': '75554443322', 'comment': 'Мимо проходил'}]; imported; 2023-01-05 18:04:15 
+[{'contact_id': 15, 'surname': 'Иванов', 'name': 'Иван', 'phone': '79998887744', 'comment': 'Одноклассник'}, {'contact_id': 16, 'surname': 'Сидоров', 'name': 'Сергей', 'phone': '78887775522', 'comment': 'Одногрупник'}, {'contact_id': 17, 'surname': 'Петров', 'name': 'Петр', 'phone': '75554443322', 'comment': 'Мимо проходил'}]; imported; 2023-01-05 18:33:12 
+{'contact_id': 11, 'surname': 'Ветров', 'name': '7', 'phone': '77', 'comment': '7'}; changed; 2023-01-05 18:33:43 
